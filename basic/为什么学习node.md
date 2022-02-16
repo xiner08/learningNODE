@@ -6,3 +6,5 @@
 - 安装node
   - node的安装包管理有 nvm、n，目前使用的n，方便
 - 安装nodemon，自动重启服务，时时更新
+- vscode安装扩展
+  - node snippets 能够快速的启动服务
